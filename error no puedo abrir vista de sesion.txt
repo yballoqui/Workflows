@@ -1,0 +1,14 @@
+UncaughtPromiseError > TypeError
+Promesa desconocida > Cannot read properties of undefined (reading 'string')
+
+TypeError: Cannot read properties of undefined (reading 'string')
+    at http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6507:211
+    at traverse (http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6502:200)
+    at http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6502:242
+    at _.each._.forEach (http://192.168.1.121/web/assets/182-d5278c4/web.assets_common.min.js:61:404)
+    at traverse (http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6502:211)
+    at http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6502:242
+    at _.each._.forEach (http://192.168.1.121/web/assets/182-d5278c4/web.assets_common.min.js:61:404)
+    at traverse (http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6502:211)
+    at http://192.168.1.121/web/assets/183-fff6947/web.assets_backend.min.js:6502:242
+    at _.each._.forEach (http://192.168.1.121/web/assets/182-d5278c4/web.assets_common.min.js:61:404)
